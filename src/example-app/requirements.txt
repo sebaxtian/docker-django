@@ -1,5 +1,5 @@
 # To install Python modules https://pypi.org/
 # Django 2.2.5 LTS
-Django==2.2.10
+Django==3.2.24
 # Other Modules
 python-dotenv
